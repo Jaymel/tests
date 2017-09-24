@@ -1,5 +1,5 @@
 ```python
-'''import pickle
+import pickle
 
 dbfilename = 'test3_4.dat'
 
@@ -59,5 +59,5 @@ def showScoreDB(scdb, keyname):
 
 scoredb = readScoreDB()
 doScoreDB(scoredb)
-writeScoreDB(scoredb)'''
+writeScoreDB(scoredb)
 ```
